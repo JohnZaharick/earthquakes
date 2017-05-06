@@ -2,11 +2,11 @@
 code source:
 http://stackoverflow.com/questions/9770073/sound-generation-synthesis-with-python
 http://stackoverflow.com/users/4879665/liam
-"""
 
-#enter in Anaconda:
-#python -m pip install -U pip setuptools
-#pip install pyaudio
+enter in Anaconda:
+python -m pip install -U pip setuptools
+pip install pyaudio
+"""
 
 import math
 import pyaudio
